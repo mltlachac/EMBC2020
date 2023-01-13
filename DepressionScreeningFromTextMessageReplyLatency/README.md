@@ -12,11 +12,12 @@ If you use the code, data, or visualizations, cite:
 M. L. Tlachac and E. Rundensteiner, 'Depression Screening from Text Message Reply Latency', in IEEE EMBC, 2020.
 
 ```
-@INPROCEEDINGS{TlachacLatency2020,
-author={M. L. {Tlachac} and E. {Rundensteiner}},
-booktitle={IEEE EMBS},
-title={Depression Screening from Text Message Reply Latency},
-year={2020},
-pages={1-4},
+@inproceedings{tlachac2020depression,
+  title={Depression screening from text message reply latency},
+  author={Tlachac, ML and Rundensteiner, Elke A},
+  booktitle={2020 42nd Annual International Conference of the IEEE Engineering in Medicine \& Biology Society (EMBC)},
+  pages={5490--5493},
+  year={2020},
+  organization={IEEE}
 }
 ```
